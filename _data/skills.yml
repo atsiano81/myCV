@@ -1,7 +1,7 @@
 # Skills
 # Organizational leadership
 - skill: Organizational leadership
-  description: I have several years of experience in the administration of healthcare organziation. 
+  description: I have several years of experience in the administration of healthcare organization. 
 # Communications strategy
 #- skill: Communications strategy
 #  description: Content and marketing strategy,
@@ -11,4 +11,5 @@
   description:  Graphic design, web design, front-end web development, print design
 
 # IT skills
-- skill: Internet Of Things, Web design (frontend - backend, HTML-CSS, php, JavaScript), Java, Linux user.
+- skill: IT skills
+  description: Internet Of Things, Web design (frontend - backend, HTML-CSS, php, JavaScript), Java, Linux user.
